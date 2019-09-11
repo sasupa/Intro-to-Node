@@ -1,0 +1,19 @@
+{
+  "name": "node-files",
+  "version": "10.16.3",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasupa/Intro-to-Node.git"
+  },
+  "author": "Sasu Paakkunainen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasupa/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/sasupa/Intro-to-Node#readme"
+}
